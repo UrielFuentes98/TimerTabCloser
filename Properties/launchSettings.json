@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "TimerTabCloser": {
+      "commandName": "Project",
+      "commandLineArgs": "5"
+    }
+  }
+}
